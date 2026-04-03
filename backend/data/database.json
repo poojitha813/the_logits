@@ -1,0 +1,697 @@
+{
+  "users": [
+    {
+      "_id": "1775153218531",
+      "name": "Astro Cadet Final",
+      "email": "finalcadet@test.com",
+      "password": "$2b$10$rZcM7m4ufvmW6D4Y1Wt.QeFUvzks5HRw3fbCk6v49dNeF31cF.DXO",
+      "balance": 2440,
+      "xp": 470,
+      "totalProfit": -120,
+      "level": 12,
+      "streak": 5,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Astro Cadet Final",
+      "history": [
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-02T18:07:10.465Z"
+        }
+      ]
+    },
+    {
+      "_id": "1775153432848",
+      "name": "Anu Priya",
+      "email": "anupriya14082006@gmail.com",
+      "password": "$2b$10$rxnHwUtPfjl.0h8H/lIdN.XTuNO2.1/vZwXXKMAUDCtVUa1s1w4BW",
+      "balance": 2350,
+      "xp": 650,
+      "totalProfit": 450,
+      "level": 12,
+      "streak": 5,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Anu Priya",
+      "history": [
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-02T18:44:19.227Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-02T18:44:21.789Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-02T18:44:24.399Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 20,
+          "xpGained": 40,
+          "date": "2026-04-02T18:44:31.313Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 50,
+          "xpGained": 100,
+          "date": "2026-04-02T18:44:35.707Z"
+        }
+      ],
+      "otp": "9914"
+    },
+    {
+      "_id": "1775153595787",
+      "name": "Poojitha",
+      "email": "poojitha19656@gmail.com",
+      "password": "$2b$10$GbA//o6NVKX9l/GtWPVapuoJ6469bYq0.U3BLKufLTOTJ2GKHqo8K",
+      "balance": 2280,
+      "xp": 790,
+      "totalProfit": 1200,
+      "level": 12,
+      "streak": 5,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Poojitha",
+      "history": [
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-02T18:13:44.872Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-02T18:18:09.486Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 20,
+          "xpGained": 40,
+          "date": "2026-04-02T18:18:12.157Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 20,
+          "xpGained": 40,
+          "date": "2026-04-03T06:20:26.433Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 50,
+          "xpGained": 100,
+          "date": "2026-04-03T06:20:28.684Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-03T06:20:30.883Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 50,
+          "xpGained": 100,
+          "date": "2026-04-03T06:20:32.350Z"
+        }
+      ]
+    },
+    {
+      "_id": "1775155560898",
+      "name": "Phanishree",
+      "email": "phanishreenkulkarni43@gmail.com",
+      "password": "$2b$10$fPZomEfk20wOgK2RxyM1Cujl8p.rIuKhvS0ehZip4e.2v19VmbIXa",
+      "balance": 2180,
+      "xp": 990,
+      "totalProfit": 2800,
+      "level": 12,
+      "streak": 5,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Phanishree",
+      "history": [
+        {
+          "type": "Investment",
+          "amount": 20,
+          "xpGained": 40,
+          "date": "2026-04-02T18:46:49.546Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 20,
+          "xpGained": 40,
+          "date": "2026-04-02T21:38:21.017Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-02T21:42:05.923Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 50,
+          "xpGained": 100,
+          "date": "2026-04-03T04:12:47.165Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 50,
+          "xpGained": 100,
+          "date": "2026-04-03T04:12:58.444Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 10,
+          "xpGained": 20,
+          "date": "2026-04-03T04:24:28.075Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 20,
+          "xpGained": 40,
+          "date": "2026-04-03T04:36:20.477Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 50,
+          "xpGained": 100,
+          "date": "2026-04-03T05:12:42.767Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 20,
+          "xpGained": 40,
+          "date": "2026-04-03T05:12:45.017Z"
+        },
+        {
+          "type": "Investment",
+          "amount": 20,
+          "xpGained": 40,
+          "date": "2026-04-03T05:12:47.464Z"
+        }
+      ]
+    },
+    {
+      "_id": "1775161196624",
+      "name": "Yash",
+      "email": "yash123@gmail.com",
+      "password": "$2b$10$VhGDUhnJ/TYiIcobQTPJheHteD/YzUsgBR4ISaHqEPXHcqtmdcfua",
+      "balance": 2450,
+      "xp": 450,
+      "totalProfit": 0,
+      "level": 12,
+      "streak": 5,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yash",
+      "history": []
+    },
+    {
+      "_id": "1775203638267",
+      "name": "rty",
+      "email": "rty@gmail.com",
+      "password": "$2b$10$Lnvn4rcYB7lePabqj60I3.7Q2feYT3LueoHrdM6CU14nDYhIUIbZO",
+      "balance": 2583,
+      "xp": 66,
+      "level": 2,
+      "totalProfit": 83,
+      "streak": 0,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=rty",
+      "history": [
+        {
+          "type": "Profit",
+          "amount": 28,
+          "xpGained": 56,
+          "date": "2026-04-03T10:27:45.995Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 29,
+          "xpGained": 58,
+          "date": "2026-04-03T10:27:47.621Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 7,
+          "xpGained": 50,
+          "date": "2026-04-03T10:27:50.289Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 16,
+          "xpGained": 50,
+          "date": "2026-04-03T10:27:51.251Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 21,
+          "xpGained": 50,
+          "date": "2026-04-03T10:27:52.299Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 1,
+          "xpGained": 50,
+          "date": "2026-04-03T10:27:53.558Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 7,
+          "xpGained": 50,
+          "date": "2026-04-03T10:29:25.719Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 24,
+          "xpGained": 50,
+          "date": "2026-04-03T10:51:58.865Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 6,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:04.473Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 8,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:04.631Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 2,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:04.766Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 11,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:04.918Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 4,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:05.063Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 7,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:05.199Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 1,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:05.344Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 26,
+          "xpGained": 52,
+          "date": "2026-04-03T10:52:06.558Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 12,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:06.697Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 5,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:06.842Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 15,
+          "xpGained": 50,
+          "date": "2026-04-03T10:52:07.065Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 1,
+          "xpGained": 50,
+          "date": "2026-04-03T11:02:43.971Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 6,
+          "xpGained": 50,
+          "date": "2026-04-03T11:02:45.073Z"
+        }
+      ],
+      "xpToNext": 1200
+    },
+    {
+      "_id": "1775218041391",
+      "name": "shry",
+      "email": "s@gmail.com",
+      "password": "$2b$10$9LNl42iWMPrVWxy.0XmGxeYJIwAuUood6bTcAxFuJ.xbZgHsAGIOu",
+      "balance": 1576,
+      "xp": 816,
+      "level": 1,
+      "totalProfit": 76,
+      "streak": 1,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=shry",
+      "history": [
+        {
+          "type": "Loss",
+          "amount": 12,
+          "xpGained": 50,
+          "date": "2026-04-03T12:07:41.842Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 2,
+          "xpGained": 50,
+          "date": "2026-04-03T12:07:42.860Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 49,
+          "xpGained": 98,
+          "date": "2026-04-03T12:07:44.050Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 27,
+          "xpGained": 54,
+          "date": "2026-04-03T12:07:44.204Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 56,
+          "xpGained": 112,
+          "date": "2026-04-03T12:07:44.447Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 26,
+          "xpGained": 52,
+          "date": "2026-04-03T12:07:45.206Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 2,
+          "xpGained": 50,
+          "date": "2026-04-03T12:07:45.338Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 6,
+          "xpGained": 50,
+          "date": "2026-04-03T12:07:46.212Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 11,
+          "xpGained": 50,
+          "date": "2026-04-03T12:07:47.370Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 19,
+          "xpGained": 50,
+          "date": "2026-04-03T12:07:48.514Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 8,
+          "xpGained": 50,
+          "date": "2026-04-03T12:07:49.743Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 2,
+          "xpGained": 50,
+          "date": "2026-04-03T12:14:51.566Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 6,
+          "xpGained": 50,
+          "date": "2026-04-03T12:14:54.349Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 6,
+          "xpGained": 50,
+          "date": "2026-04-03T12:15:04.210Z"
+        }
+      ]
+    },
+    {
+      "_id": "1775218737731",
+      "name": "kim john",
+      "email": "kim@gmail.com",
+      "password": "$2b$10$YbOsexRn0jlRvcZ9ifIrOuhb9B0CZ8jxmWOM0.egpUdK.xnJVpG5e",
+      "balance": 1748,
+      "xp": 128,
+      "level": 2,
+      "totalProfit": 248,
+      "streak": 0,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=kim john",
+      "history": [
+        {
+          "type": "Profit",
+          "amount": 12,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:07.500Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 14,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:10.647Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 74,
+          "xpGained": 148,
+          "date": "2026-04-03T12:19:11.968Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 26,
+          "xpGained": 52,
+          "date": "2026-04-03T12:19:21.962Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 11,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:23.120Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 8,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:23.279Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 9,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:23.437Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 4,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:23.575Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 23,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:24.941Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 37,
+          "xpGained": 74,
+          "date": "2026-04-03T12:19:25.088Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 11,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:25.237Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 17,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:25.388Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 50,
+          "xpGained": 100,
+          "date": "2026-04-03T12:19:25.547Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 6,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:26.481Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 27,
+          "xpGained": 54,
+          "date": "2026-04-03T12:19:26.616Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 8,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:26.768Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 7,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:27.878Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 5,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:28.025Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 7,
+          "xpGained": 50,
+          "date": "2026-04-03T12:19:28.168Z"
+        }
+      ],
+      "xpToNext": 1200
+    },
+    {
+      "_id": "1775218983503",
+      "name": "kiya",
+      "email": "kiya@gmail.com",
+      "password": "$2b$10$TFmv7uO9jASbREpTm2IG5uIedUNvBnBROfqam6o6i4onJ3hpNtgMG",
+      "balance": 1664,
+      "xp": 426,
+      "level": 1,
+      "totalProfit": 164,
+      "streak": 1,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=kiya",
+      "history": [
+        {
+          "type": "Profit",
+          "amount": 6,
+          "xpGained": 50,
+          "date": "2026-04-03T12:23:47.965Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 25,
+          "xpGained": 50,
+          "date": "2026-04-03T12:23:49.172Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 47,
+          "xpGained": 94,
+          "date": "2026-04-03T12:23:50.297Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 60,
+          "xpGained": 120,
+          "date": "2026-04-03T13:31:14.905Z"
+        },
+        {
+          "type": "Loss",
+          "amount": 5,
+          "xpGained": 50,
+          "date": "2026-04-03T13:53:24.332Z"
+        },
+        {
+          "type": "Profit",
+          "amount": 31,
+          "xpGained": 62,
+          "date": "2026-04-03T13:53:34.052Z"
+        }
+      ]
+    }
+  ],
+  "goals": [
+    {
+      "name": "home",
+      "cost": 1000000,
+      "userId": "1775218041391"
+    },
+    {
+      "name": "home",
+      "cost": 9000000,
+      "userId": "1775218737731"
+    },
+    {
+      "name": "house",
+      "cost": 9000000,
+      "userId": "1775218983503"
+    },
+    {
+      "name": "UPGRADE: house",
+      "cost": 13500000,
+      "userId": "1775218983503"
+    }
+  ],
+  "missions": [
+    {
+      "amt": 10,
+      "name": "Quick Explore",
+      "size": 75,
+      "radius": 140,
+      "speed": "12s",
+      "delay": "0s",
+      "color": "#00f5ff"
+    },
+    {
+      "amt": 20,
+      "name": "Stellar Trade",
+      "size": 95,
+      "radius": 220,
+      "speed": "20s",
+      "delay": "-5s",
+      "color": "#bf00ff"
+    },
+    {
+      "amt": 50,
+      "name": "Hyper Invest",
+      "size": 115,
+      "radius": 310,
+      "speed": "28s",
+      "delay": "-10s",
+      "color": "#39ff14"
+    }
+  ],
+  "pendingUsers": [
+    {
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "password": "$2b$10$8wG1VM2Z7QsuGVSyyDpjz.3fafqY33J5MD8PwBzVTIdrlHARNSBIu",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "otp": "4726"
+    },
+    {
+      "name": "arya",
+      "email": "arya@gmail.com",
+      "password": "$2b$10$CYcx7RL6zPHrNmLhS4YQuuyRv7mg12q3.0pEaNBFpqi.OgF.Fho.u",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=arya",
+      "otp": "8111"
+    }
+  ]
+}
